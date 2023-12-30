@@ -1,1 +1,2 @@
 # Databases_Laboratory_exercises
+This repository compiles a series of exercises from my database laboratory sessions. It includes hands-on tasks and practice problems covering fundamental database concepts such as SQL queries, database design, normalization, indexing, and data manipulation. These exercises serve as a valuable resource for reinforcing database skills and understanding key principles learned during the laboratory sessions.
